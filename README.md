@@ -1,9 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/3c672e90-9a26-41e9-9bf7-ba650a257c71)
+
 Mastering Next.js: The Future of Web Development
-Abdulrehman Siddiqui, #OPEN_TO_WORK
-Abdulrehman Siddiqui
-Student at Ziauddin University | Frontend developer| Learning Mobile & Web development from Saylani Mass Information Technology | HTML5 | CSS3 | Tailwind CSS | JavaScript |API| Firebase |Bootstrap | Git & GitHub
-
-
+Abdulrehman Siddiqui, 
 October 11, 2024
 Next.js is revolutionizing the way developers build React applications. It offers powerful features like server-side rendering (SSR), static site generation (SSG), and API routes, making it a versatile framework for modern web development.
 
